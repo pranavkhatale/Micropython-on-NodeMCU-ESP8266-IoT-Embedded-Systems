@@ -1,5 +1,4 @@
 # Interfacing DHT11 Sensor with NodeMCU ESP8266 12-E using Micropython in Thonny IDE.
-# This main script is saved as "main.py" on NodeMCU as it runs this program ones powered up alongwith external power supply.
 # by Pranav Khatale
 # 06 November 2020
 
@@ -25,4 +24,3 @@ while True:
     # In case there is an error getting the readings, the except statement runs and an error message is printed
   except OSError as e: 
     print('Failed to read sensor.')
-
