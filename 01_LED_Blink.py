@@ -1,5 +1,4 @@
-# Blinking Built-in LED of NodeMCU ESP8266 12-E using Micropython in Thonny IDE.
-# This file is compulsorily saved as "main.py" on NodeMCU as it runs this program ones powered up.
+# Blinking Built-in LED on NodeMCU ESP8266 12-E using Micropython program in Thonny IDE.
 # by Pranav Khatale
 # 05 November 2020
 
