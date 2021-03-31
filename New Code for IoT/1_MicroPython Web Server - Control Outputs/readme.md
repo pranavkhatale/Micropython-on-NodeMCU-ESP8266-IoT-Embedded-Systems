@@ -1,1 +1,1 @@
-Build a web server to control the ESP32 or ESP8266 outputs using MicroPython framework. As an example we’ll build a web server with ON and OFF buttons to control the on-board LED of the ESP32/ESP8266. We’ll use sockets and the Python socket API.
+Build a web server to control the NodeMCU outputs using MicroPython framework. As an example we’ll build a web server with ON and OFF buttons to control the on-board LED of the NodeMCU. We’ll use sockets and the Python socket API.
