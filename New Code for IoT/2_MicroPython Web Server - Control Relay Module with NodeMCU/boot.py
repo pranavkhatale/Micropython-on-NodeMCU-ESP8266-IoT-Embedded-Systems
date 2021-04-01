@@ -16,8 +16,8 @@ import gc
 gc.collect()
 
 # Insert your network credentials in the following variables.
-ssid = 'Snehal'
-password = '91705796'
+ssid = 'D-Link'
+password = 'pass@123'
 
 station = network.WLAN(network.STA_IF)
 
